@@ -2,31 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zahlenschieber Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://schraenko.github.io/</link>
     <description>Recent content on Zahlenschieber Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Aug 2025 14:33:10 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>What_makes_a_good_po</title>
-      <link>http://localhost:1313/posts/what_makes_a_good_po/</link>
-      <pubDate>Sun, 24 Aug 2025 14:33:10 +0200</pubDate>
-      <guid>http://localhost:1313/posts/what_makes_a_good_po/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>What_makes_a_good_scrum_master</title>
-      <link>http://localhost:1313/posts/what_makes_a_good_scrum_master/</link>
-      <pubDate>Sun, 24 Aug 2025 14:32:52 +0200</pubDate>
-      <guid>http://localhost:1313/posts/what_makes_a_good_scrum_master/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 14 Jul 2025 22:19:20 +0200</lastBuildDate>
+    <atom:link href="https://schraenko.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/posts/about/</link>
+      <link>https://schraenko.github.io/posts/about/</link>
       <pubDate>Mon, 14 Jul 2025 22:19:20 +0200</pubDate>
-      <guid>http://localhost:1313/posts/about/</guid>
+      <guid>https://schraenko.github.io/posts/about/</guid>
       <description>&lt;h1 id=&#34;about-this-blog&#34;&gt;About this blog&lt;/h1&gt;&#xA;&lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;&#xA;&lt;p&gt;This blog - surprise - mirrors my personal interest. Those are versatile but mostly related with information technic in any sense. Topics I am interested in are&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Project Management&lt;/li&gt;&#xA;&lt;li&gt;Artificial Inteligence especially Large Language Models and Agent Systems&lt;/li&gt;&#xA;&lt;li&gt;Software Developement especially in Haskell and Rust&lt;/li&gt;&#xA;&lt;li&gt;Books&lt;/li&gt;&#xA;&lt;li&gt;&amp;hellip;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;me&#34;&gt;Me&lt;/h2&gt;&#xA;&lt;p&gt;I am a product owner in a very technical field with a degree in materials engineering. After several years in academics and science, I started as a software developer, architect, consultant and project manager. Finally I settled as a product owner and think that&amp;rsquo;s my best decision ever.&#xA;I am no English native speaker! Please excuse if texts are not perfect. I double check them with a LLM but for a first time publication I dare to use the raw version.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,23 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://schraenko.github.io/posts/</loc>
     <lastmod>2025-08-24T14:33:10+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/what_makes_a_good_po/</loc>
+    <loc>https://schraenko.github.io/</loc>
     <lastmod>2025-08-24T14:33:10+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-24T14:33:10+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/what_makes_a_good_scrum_master/</loc>
-    <lastmod>2025-08-24T14:32:52+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/about/</loc>
+    <loc>https://schraenko.github.io/posts/about/</loc>
     <lastmod>2025-07-14T22:19:20+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://schraenko.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://schraenko.github.io/tags/</loc>
   </url>
 </urlset>
