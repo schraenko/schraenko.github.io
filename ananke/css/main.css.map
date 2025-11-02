@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/marco.schrank/projects/hugo/zahlenschieber",
+	"sourceRoot": "/Users/marcoschrank/projects/hugo/the_schraenko_projekt",
 	"sources": [
 		"ananke/css/main.css"
 	],

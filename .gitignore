@@ -1,0 +1,25 @@
+# Hugo Build Output
+/public/
+
+# Dependency directories
+/node_modules/
+/resources/_gen/
+
+# IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Environment files
+.env
